@@ -22,8 +22,8 @@ of interest include `Total Population`, `Natural Change`, `Population Density`, 
 
 ## Key Insights for Interactive Dashboards
 
-After combining both datasets in Tableau, I built interactive dashboards to visualize key indicators of
-interest by region types for each year between 1950 and 2100.
+After combining both datasets in Tableau, I built interactive [dashboards](https://public.tableau.com/views/UNWorldPopulationProspects2022/TotalPopulation?:language=en-US&:display_count=n&:origin=viz_share_link)
+to visualize key indicators of interest by region types for each year between 1950 and 2100.
 Scatterplots were used to present `Total Fertility Rate`, `Life Expectancy at Birth`,
 `Crude Birth Rate` and `Crude Death Rate`, while maps were used for other key demographic indicators.
 Few other indicators were introduced using tooltip.
