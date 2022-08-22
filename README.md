@@ -1,4 +1,4 @@
-# UN World Population Prospects 2022
+M# UN World Population Prospects 2022
 ##### _by Owhonda Moses_
 
 
@@ -6,9 +6,9 @@
 
 > This data set contains 20,596 UN annual population estimates from the year 1950 to date as well as
 22,598 medium projections for World population up to the year 2100. Included in the dataset are
-64 demographic indicators as of July 2022, including Total population, Natural change, Net Migration rate,
-Population density, Life expectancy among others. The dataset can be found on the website of the
-Population Division of the United Nations Department of Economic and Social Affairs
+64 demographic indicators as of July 2022 for 236 countries, including Total population, Natural change,
+Net Migration rate, Population density, Life expectancy among others. The dataset can be found on the website
+of the Population Division of the United Nations Department of Economic and Social Affairs
 [here](https://population.un.org/wpp/Download/Standard/MostUsed/) along with feature documentation.
 I split the dataset into two in Microsoft Excel - one for projected population and another for historical
 population, and carried out preliminary wrangling using Python. After cleaning the datasets and subsetting
