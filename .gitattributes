@@ -1,5 +1,6 @@
 *.ipynb linguist-language=Python
+*.twbx linguist-language=Tableau
 *.html linguist-vendored
 *.js linguist-vendored
 *.python linguist-detectable=true
-*.twbx linguist-detectable=true
+*.tableau linguist-detectable=true
